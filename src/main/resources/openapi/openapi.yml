@@ -83,10 +83,8 @@ components:
     InvolvedParty:
       type: object
       properties:
-        partyReference:
-          type: string
-          description: Reference to a Party who plays a specific role
-          format: Text
+        partyIdentification:
+          $ref: '#/components/schemas/PartyIdentification'
       description: Reference to a Party who plays a  specific role in the context of assigning a status.
     AccountStatusTypeValues:
       enum:
@@ -221,6 +219,26 @@ components:
         accountDetail:
           $ref: '#/components/schemas/Account'
       description: 'Fulfill any scheduled and ad-hoc obligations under a service arrangement, most typically for a financial product or facility within Savings Account. '
+    PartyIdentificationTypeValues:
+      enum:
+        - Identitycardnumber
+        - Nationalregistrationidentificationnumber
+        - Registrationauthorityidentification
+        - Passportnumber
+      type: string
+      description: >
+        * `Identitycardnumber` - Number assigned by a national authority to an identity card.
+        * `Nationalregistrationidentificationnumber` - National registration identification number. In Singapore this is known as the NRIC.
+        * `Registrationauthorityidentification` - An identifier for the Legal Entity in a business registry in the jurisdiction of legal registration, or in the appropriate registration authority. (ISO20022)
+        * `Passportnumber` - Number assigned by a passport authority.
+    PartyIdentification:
+      type: object
+      properties:
+        partyIdentificationType:
+          $ref: '#/components/schemas/PartyIdentificationTypeValues'
+        partyIdentification:
+          $ref: '#/components/schemas/Identifier'
+      description: ''
   responses:
     BadRequest:
       description: BadRequest
