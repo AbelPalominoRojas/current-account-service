@@ -57,18 +57,14 @@ components:
         code:
           type: string
           description: Specific provider or component error code.
-          example: PRDD0001
-        component:
-          type: string
-          description: Name of the component where the reported error occurred.
-          example: component-name-v1
+          example: CODE0001
         description:
           type: string
           description: Technical description of the specific error detail.
           example: Invalid channel code
       description: Technical error detail indicating the source component, code, and specific description.
 
-    DateTime:
+    DateTimeRecord:
       type: object
       properties:
         dateTimeContent:
@@ -140,7 +136,7 @@ components:
         accountDateType:
           $ref: '#/components/schemas/AccountDatetimeTypeValues'
         accountDate:
-          $ref: '#/components/schemas/DateTime'
+          $ref: '#/components/schemas/DateTimeRecord'
       description: 'A characteristic of account which refers to LifecycleDate of account (e.g., ClosingDate, OpeningDate, LiveDate, etc.) '
     AccountTypeValues:
       enum:

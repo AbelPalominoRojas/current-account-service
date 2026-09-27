@@ -84,6 +84,12 @@
             <scope>provided</scope>
         </dependency>
 
+
+        <dependency>
+            <groupId>io.quarkus</groupId>
+            <artifactId>quarkus-mongodb-panache</artifactId>
+        </dependency>
+
         <!-- JUnit 5 testing -->
         <dependency>
             <groupId>io.quarkus</groupId>
@@ -204,9 +210,14 @@
                                 <openApiNullable>false</openApiNullable>
                                 <interfaceOnly>true</interfaceOnly>
                                 <returnResponse>true</returnResponse>
+                                <dateLibrary>java8</dateLibrary>
 
                                 <useMicroProfileOpenAPIAnnotations>true</useMicroProfileOpenAPIAnnotations>
                                 <useSwaggerAnnotations>false</useSwaggerAnnotations>
+
+                                <additionalEnumTypeAnnotations>
+                                    @lombok.Getter
+                                </additionalEnumTypeAnnotations>
                             </configOptions>
 
                             <skipIfSpecIsUnchanged>false</skipIfSpecIsUnchanged>

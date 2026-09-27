@@ -1,5 +1,17 @@
+# Variables
+database-server: localhost
+database-port: 27017
+database-name: savingsAccountDB
+database-username: developer
+database-password: 'D3v%23123456'
+
+
 # Application configuration
 quarkus:
   http:
     root-path: /api/v1
     port: 8086
+
+  mongodb:
+    database: ${database-name}
+    connection-string: mongodb://${database-username}:${database-password}@${database-server}:${database-port}
