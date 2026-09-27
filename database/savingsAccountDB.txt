@@ -1,0 +1,16 @@
+use savingsAccountDB;
+
+db.createCollection("savingsAccountFacility");
+
+// Índices útiles
+db.savingsAccountFacility.createIndex(
+  { "customerReference.partyIdentification.partyIdentification.identifierValue": 1 }
+);
+
+db.savingsAccountFacility.createIndex(
+  { "accountType": 1 }
+);
+
+db.savingsAccountFacility.createIndex(
+  { "accountDetail.accountStatus.accountStatusType": 1 }
+);

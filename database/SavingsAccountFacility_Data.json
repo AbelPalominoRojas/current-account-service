@@ -1,0 +1,5364 @@
+[
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "10301554"
+        }
+      }
+    },
+    "accountType": "DebitAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000001"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2021-01-11T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "1500.20",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de débito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "45678912"
+        }
+      }
+    },
+    "accountType": "SavingAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000002"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2022-02-12T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "8500.00",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de ahorro"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "72345678"
+        }
+      }
+    },
+    "accountType": "CurrentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000003"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2023-03-13T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "5200.75",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta corriente"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "80123456"
+        }
+      }
+    },
+    "accountType": "PaymentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000004"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2024-04-14T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "2350.50",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de pago"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "43216789"
+        }
+      }
+    },
+    "accountType": "CreditAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000005"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2025-05-15T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "4050.90",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de crédito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "65432198"
+        }
+      }
+    },
+    "accountType": "DebitAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000006"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2021-06-16T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "1500.20",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de débito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "78901234"
+        }
+      }
+    },
+    "accountType": "SavingAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000007"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2022-07-11T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "8500.00",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de ahorro"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "34567890"
+        }
+      }
+    },
+    "accountType": "CurrentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000008"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2023-08-12T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "5200.75",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta corriente"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "56789012"
+        }
+      }
+    },
+    "accountType": "PaymentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000009"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2024-09-13T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2025-09-110T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "2350.50",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de pago"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "12345679"
+        }
+      }
+    },
+    "accountType": "CreditAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000010"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2025-01-14T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2026-010-111T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "4050.90",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de crédito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "23456781"
+        }
+      }
+    },
+    "accountType": "DebitAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000011"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2021-02-15T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2022-011-112T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "1500.20",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de débito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "34567892"
+        }
+      }
+    },
+    "accountType": "SavingAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000012"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2022-03-16T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2023-01-113T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "8500.00",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de ahorro"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "45678903"
+        }
+      }
+    },
+    "accountType": "CurrentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000013"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2023-04-11T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "5200.75",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta corriente"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "56789014"
+        }
+      }
+    },
+    "accountType": "PaymentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000014"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2024-05-12T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "2350.50",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de pago"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "67890125"
+        }
+      }
+    },
+    "accountType": "CreditAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000015"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2025-06-13T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "4050.90",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de crédito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "78901236"
+        }
+      }
+    },
+    "accountType": "DebitAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000016"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2021-07-14T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "1500.20",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de débito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "89012347"
+        }
+      }
+    },
+    "accountType": "SavingAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000017"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2022-08-15T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "8500.00",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de ahorro"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "90123458"
+        }
+      }
+    },
+    "accountType": "CurrentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000018"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2023-09-16T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "5200.75",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta corriente"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "11234567"
+        }
+      }
+    },
+    "accountType": "PaymentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000019"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2024-01-11T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "2350.50",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de pago"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "22345678"
+        }
+      }
+    },
+    "accountType": "CreditAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000020"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2025-02-12T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "4050.90",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de crédito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "33456789"
+        }
+      }
+    },
+    "accountType": "DebitAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000021"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2021-03-13T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "1500.20",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de débito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "33456789"
+        }
+      }
+    },
+    "accountType": "SavingAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000022"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2022-04-14T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "8500.00",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de ahorro"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "44567890"
+        }
+      }
+    },
+    "accountType": "SavingAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000023"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2022-04-14T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "8500.00",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de ahorro"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "44567890"
+        }
+      }
+    },
+    "accountType": "CurrentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000024"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2023-05-15T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "5200.75",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta corriente"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "55678901"
+        }
+      }
+    },
+    "accountType": "CurrentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000025"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2023-05-15T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "5200.75",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta corriente"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "55678901"
+        }
+      }
+    },
+    "accountType": "PaymentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000026"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2024-06-16T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "2350.50",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de pago"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "66789012"
+        }
+      }
+    },
+    "accountType": "PaymentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000027"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2024-06-16T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "2350.50",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de pago"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "66789012"
+        }
+      }
+    },
+    "accountType": "CreditAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000028"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2025-07-11T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "4050.90",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de crédito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "77890123"
+        }
+      }
+    },
+    "accountType": "CreditAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000029"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2025-07-11T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "4050.90",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de crédito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "77890123"
+        }
+      }
+    },
+    "accountType": "DebitAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000030"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2021-08-12T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "1500.20",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de débito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "88901234"
+        }
+      }
+    },
+    "accountType": "DebitAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000031"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2021-08-12T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "1500.20",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de débito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "88901234"
+        }
+      }
+    },
+    "accountType": "SavingAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000032"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2022-09-13T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "8500.00",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de ahorro"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "99012345"
+        }
+      }
+    },
+    "accountType": "SavingAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000033"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2022-09-13T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "8500.00",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de ahorro"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "99012345"
+        }
+      }
+    },
+    "accountType": "CurrentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000034"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2023-01-14T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "5200.75",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta corriente"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "10234567"
+        }
+      }
+    },
+    "accountType": "CurrentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000035"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2023-01-14T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "5200.75",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta corriente"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "10234567"
+        }
+      }
+    },
+    "accountType": "PaymentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000036"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2024-02-15T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "2350.50",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de pago"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "21345678"
+        }
+      }
+    },
+    "accountType": "PaymentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000037"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2024-02-15T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2025-07-114T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "2350.50",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de pago"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "21345678"
+        }
+      }
+    },
+    "accountType": "CreditAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000038"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2025-03-16T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2026-08-115T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "4050.90",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de crédito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "32456789"
+        }
+      }
+    },
+    "accountType": "CreditAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000039"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2025-03-16T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2026-08-115T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "4050.90",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de crédito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "32456789"
+        }
+      }
+    },
+    "accountType": "DebitAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000040"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2021-04-11T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2022-09-116T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "1500.20",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de débito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "43567890"
+        }
+      }
+    },
+    "accountType": "DebitAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000041"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2021-04-11T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2022-09-116T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "1500.20",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de débito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "43567890"
+        }
+      }
+    },
+    "accountType": "SavingAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000042"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2022-05-12T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2023-010-117T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "8500.00",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de ahorro"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "54678901"
+        }
+      }
+    },
+    "accountType": "SavingAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000043"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2022-05-12T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2023-010-117T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "8500.00",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de ahorro"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "54678901"
+        }
+      }
+    },
+    "accountType": "CurrentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000044"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2023-06-13T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2024-011-110T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "5200.75",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta corriente"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "65789012"
+        }
+      }
+    },
+    "accountType": "CurrentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000045"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2023-06-13T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "5200.75",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta corriente"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "65789012"
+        }
+      }
+    },
+    "accountType": "PaymentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000046"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2024-07-14T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "2350.50",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de pago"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "76890123"
+        }
+      }
+    },
+    "accountType": "PaymentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000047"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2024-07-14T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "2350.50",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de pago"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "76890123"
+        }
+      }
+    },
+    "accountType": "CreditAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000048"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2025-08-15T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "4050.90",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de crédito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "87901234"
+        }
+      }
+    },
+    "accountType": "CreditAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000049"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2025-08-15T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "4050.90",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de crédito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "87901234"
+        }
+      }
+    },
+    "accountType": "DebitAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000050"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2021-09-16T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "1500.20",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de débito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "98012345"
+        }
+      }
+    },
+    "accountType": "DebitAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000051"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2021-09-16T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "1500.20",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de débito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "98012345"
+        }
+      }
+    },
+    "accountType": "SavingAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000052"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2022-01-11T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "8500.00",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de ahorro"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "19123456"
+        }
+      }
+    },
+    "accountType": "SavingAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000053"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2022-01-11T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "8500.00",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de ahorro"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "19123456"
+        }
+      }
+    },
+    "accountType": "CurrentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000054"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2023-02-12T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "5200.75",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta corriente"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "20234567"
+        }
+      }
+    },
+    "accountType": "CurrentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000055"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2023-02-12T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "5200.75",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta corriente"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "20234567"
+        }
+      }
+    },
+    "accountType": "PaymentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000056"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2024-03-13T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "2350.50",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de pago"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "31345678"
+        }
+      }
+    },
+    "accountType": "PaymentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000057"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2024-03-13T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "2350.50",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de pago"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "31345678"
+        }
+      }
+    },
+    "accountType": "CreditAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000058"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2025-04-14T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "4050.90",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de crédito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "42456789"
+        }
+      }
+    },
+    "accountType": "CreditAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000059"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2025-04-14T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "4050.90",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de crédito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "42456789"
+        }
+      }
+    },
+    "accountType": "DebitAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000060"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2021-05-15T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "1500.20",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de débito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "53567890"
+        }
+      }
+    },
+    "accountType": "DebitAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000061"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2021-05-15T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "1500.20",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de débito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "53567890"
+        }
+      }
+    },
+    "accountType": "SavingAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000062"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2022-06-16T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "8500.00",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de ahorro"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "53567890"
+        }
+      }
+    },
+    "accountType": "CurrentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000063"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2023-07-11T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "5200.75",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta corriente"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "64678901"
+        }
+      }
+    },
+    "accountType": "SavingAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000064"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2022-06-16T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "8500.00",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de ahorro"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "64678901"
+        }
+      }
+    },
+    "accountType": "CurrentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000065"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2023-07-11T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "5200.75",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta corriente"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "64678901"
+        }
+      }
+    },
+    "accountType": "PaymentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000066"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2024-08-12T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "2350.50",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de pago"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "75789012"
+        }
+      }
+    },
+    "accountType": "CurrentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000067"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2023-07-11T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "5200.75",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta corriente"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "75789012"
+        }
+      }
+    },
+    "accountType": "PaymentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000068"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2024-08-12T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "2350.50",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de pago"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "75789012"
+        }
+      }
+    },
+    "accountType": "CreditAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000069"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2025-09-13T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "4050.90",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de crédito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "86890123"
+        }
+      }
+    },
+    "accountType": "PaymentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000070"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2024-08-12T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "2350.50",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de pago"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "86890123"
+        }
+      }
+    },
+    "accountType": "CreditAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000071"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2025-09-13T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "4050.90",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de crédito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "86890123"
+        }
+      }
+    },
+    "accountType": "DebitAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000072"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2021-01-14T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "1500.20",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de débito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "97901234"
+        }
+      }
+    },
+    "accountType": "CreditAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000073"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2025-09-13T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "4050.90",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de crédito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "97901234"
+        }
+      }
+    },
+    "accountType": "DebitAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000074"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2021-01-14T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "1500.20",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de débito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Nationalregistrationidentificationnumber",
+        "partyIdentification": {
+          "identifierValue": "97901234"
+        }
+      }
+    },
+    "accountType": "SavingAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000075"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2022-02-15T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "8500.00",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de ahorro"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "CE2023000001"
+        }
+      }
+    },
+    "accountType": "DebitAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000076"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2021-01-14T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "1500.20",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de débito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "CE2023000001"
+        }
+      }
+    },
+    "accountType": "SavingAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000077"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2022-02-15T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "8500.00",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de ahorro"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "CE2023000001"
+        }
+      }
+    },
+    "accountType": "CurrentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000078"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2023-03-16T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "5200.75",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta corriente"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "CE2023000002"
+        }
+      }
+    },
+    "accountType": "SavingAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000079"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2022-02-15T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2023-03-116T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "8500.00",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de ahorro"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "CE2023000002"
+        }
+      }
+    },
+    "accountType": "CurrentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000080"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2023-03-16T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2024-04-117T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "5200.75",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta corriente"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "CE2023000002"
+        }
+      }
+    },
+    "accountType": "PaymentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000081"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2024-04-11T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2025-05-110T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "2350.50",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de pago"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "CE2023000003"
+        }
+      }
+    },
+    "accountType": "CurrentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000082"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2023-03-16T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2024-04-117T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "5200.75",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta corriente"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "CE2023000003"
+        }
+      }
+    },
+    "accountType": "PaymentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000083"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2024-04-11T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2025-05-110T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "2350.50",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de pago"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "CE2023000003"
+        }
+      }
+    },
+    "accountType": "CreditAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000084"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2025-05-12T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2026-06-111T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "4050.90",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de crédito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "CE2023000004"
+        }
+      }
+    },
+    "accountType": "PaymentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000085"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2024-04-11T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2025-05-110T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "2350.50",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de pago"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "CE2023000004"
+        }
+      }
+    },
+    "accountType": "CreditAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000086"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2025-05-12T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2026-06-111T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "4050.90",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de crédito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "CE2023000004"
+        }
+      }
+    },
+    "accountType": "DebitAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000087"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2021-06-13T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2022-07-112T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "1500.20",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de débito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "CE2023000005"
+        }
+      }
+    },
+    "accountType": "CreditAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000088"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2025-05-12T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2026-06-111T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "4050.90",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de crédito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "CE2023000005"
+        }
+      }
+    },
+    "accountType": "DebitAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000089"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2021-06-13T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2022-07-112T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "1500.20",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de débito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "CE2023000005"
+        }
+      }
+    },
+    "accountType": "SavingAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000090"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2022-07-14T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2023-08-113T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "8500.00",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de ahorro"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "CE2024000001"
+        }
+      }
+    },
+    "accountType": "DebitAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000091"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2021-06-13T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2022-07-112T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "1500.20",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de débito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "CE2024000001"
+        }
+      }
+    },
+    "accountType": "SavingAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000092"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2022-07-14T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2023-08-113T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "8500.00",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de ahorro"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "CE2024000001"
+        }
+      }
+    },
+    "accountType": "CurrentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000093"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2023-08-15T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2024-09-114T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "5200.75",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta corriente"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "CE2024000002"
+        }
+      }
+    },
+    "accountType": "SavingAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000094"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2022-07-14T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2023-08-113T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "8500.00",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de ahorro"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "CE2024000002"
+        }
+      }
+    },
+    "accountType": "CurrentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000095"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2023-08-15T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2024-09-114T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "5200.75",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta corriente"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "CE2024000002"
+        }
+      }
+    },
+    "accountType": "PaymentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000096"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2024-09-16T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2025-010-115T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "2350.50",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de pago"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "CE2024000003"
+        }
+      }
+    },
+    "accountType": "CurrentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000097"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2023-08-15T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "5200.75",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta corriente"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "CE2024000003"
+        }
+      }
+    },
+    "accountType": "PaymentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000098"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2024-09-16T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2025-010-115T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "2350.50",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de pago"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "CE2024000003"
+        }
+      }
+    },
+    "accountType": "CreditAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000099"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2025-01-11T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2026-011-116T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "4050.90",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de crédito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "CE2024000004"
+        }
+      }
+    },
+    "accountType": "PaymentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000100"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2024-09-16T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "2350.50",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de pago"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "CE2024000004"
+        }
+      }
+    },
+    "accountType": "CreditAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000101"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2025-01-11T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2026-011-116T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "4050.90",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de crédito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "CE2024000004"
+        }
+      }
+    },
+    "accountType": "DebitAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000102"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2021-02-12T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2022-01-117T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "1500.20",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de débito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "CE2024000005"
+        }
+      }
+    },
+    "accountType": "CreditAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000103"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2025-01-11T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "4050.90",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de crédito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "CE2024000005"
+        }
+      }
+    },
+    "accountType": "DebitAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000104"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2021-02-12T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2022-01-117T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "1500.20",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de débito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "CE2024000005"
+        }
+      }
+    },
+    "accountType": "SavingAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000105"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2022-03-13T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2023-02-110T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "8500.00",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de ahorro"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "AB12345678"
+        }
+      }
+    },
+    "accountType": "DebitAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000106"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2021-02-12T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "1500.20",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de débito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "AB12345678"
+        }
+      }
+    },
+    "accountType": "SavingAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000107"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2022-03-13T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2023-02-110T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "8500.00",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de ahorro"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "AB12345678"
+        }
+      }
+    },
+    "accountType": "CurrentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000108"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2023-04-14T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2024-03-111T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "5200.75",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta corriente"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "CD98765432"
+        }
+      }
+    },
+    "accountType": "SavingAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000109"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2022-03-13T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "8500.00",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de ahorro"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "CD98765432"
+        }
+      }
+    },
+    "accountType": "CurrentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000110"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2023-04-14T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2024-03-111T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "5200.75",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta corriente"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "CD98765432"
+        }
+      }
+    },
+    "accountType": "PaymentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000111"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2024-05-15T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2025-04-112T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "2350.50",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de pago"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "EF11223344"
+        }
+      }
+    },
+    "accountType": "CurrentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000112"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2023-04-14T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "5200.75",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta corriente"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "EF11223344"
+        }
+      }
+    },
+    "accountType": "PaymentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000113"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2024-05-15T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2025-04-112T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "2350.50",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de pago"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "EF11223344"
+        }
+      }
+    },
+    "accountType": "CreditAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000114"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2025-06-16T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2026-05-113T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "4050.90",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de crédito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "GH55667788"
+        }
+      }
+    },
+    "accountType": "PaymentAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000115"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2024-05-15T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "2350.50",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de pago"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "GH55667788"
+        }
+      }
+    },
+    "accountType": "CreditAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000116"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2025-06-16T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2026-05-113T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "4050.90",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de crédito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "GH55667788"
+        }
+      }
+    },
+    "accountType": "DebitAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000117"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2021-07-11T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2022-06-114T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "1500.20",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de débito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "IJ99001122"
+        }
+      }
+    },
+    "accountType": "CreditAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Enabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000118"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2025-06-16T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "4050.90",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de crédito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "IJ99001122"
+        }
+      }
+    },
+    "accountType": "DebitAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000119"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2021-07-11T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2022-06-114T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "1500.20",
+          "amountCurrency": {
+            "accountCurrencyType": "PEN"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de débito"
+      }
+    }
+  },
+  {
+    "customerReference": {
+      "partyIdentification": {
+        "partyIdentificationType": "Passportnumber",
+        "partyIdentification": {
+          "identifierValue": "IJ99001122"
+        }
+      }
+    },
+    "accountType": "SavingAccount",
+    "accountDetail": {
+      "accountStatus": {
+        "accountStatusType": "Disabled"
+      },
+      "accountIdentification": {
+        "accountIdentificationType": "AccountNumber",
+        "accountIdentification": {
+          "identifierValue": "100000000120"
+        }
+      },
+      "accountDates": [
+        {
+          "accountDateType": "OpeningDate",
+          "accountDate": {
+            "dateTimeContent": "2022-08-12T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        },
+        {
+          "accountDateType": "BlockingDate",
+          "accountDate": {
+            "dateTimeContent": "2023-07-115T00:00:00Z",
+            "timeZoneCode": "UTC"
+          }
+        }
+      ],
+      "accountBalance": {
+        "balanceAmount": {
+          "amountValue": "8500.00",
+          "amountCurrency": {
+            "accountCurrencyType": "USD"
+          }
+        }
+      },
+      "accountName": {
+        "name": "Cuenta de ahorro"
+      }
+    }
+  }
+]
