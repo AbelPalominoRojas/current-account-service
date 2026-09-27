@@ -14,8 +14,7 @@ public class ApplicationException extends RuntimeException {
   @Getter
   public enum ExceptionType {
     BAD_REQUEST(400),
-    NOT_FOUND(404),
-    CONFLICT(409),
+    PRECONDITION_FAILED(409),
     INTERNAL_SERVER_ERROR(500);
 
     private final int statusCode;
